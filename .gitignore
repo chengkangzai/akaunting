@@ -73,7 +73,6 @@ fabric.properties
 /node_modules
 /public/hot
 /public/storage
-/public/mix-manifest.json
 /storage/*.key
 /vendor
 /.idea
